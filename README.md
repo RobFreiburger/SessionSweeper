@@ -1,18 +1,14 @@
-**__Working on SessionSweeper 2. Stay tuned!__**<br>
-<br>
-[![Donate](http://i.imgur.com/FtaJpum.gif)](https://paypal.me/groupload "Donate")<br>
-<br>
-**GTA V Online - SessionSweeper**<br>
+
+**GTA V Online - SessionSweeper**
+
+This fork was made because the Dysanix's Dropbox link was broke. All I did was install Visual Studio, build the application, and do a quick test to see if it worked.
+
 Press *Pause/Break* to disconnect from everyone in your current session and be alone.<br>
 Press *Scroll Lock* to toggle lock your current session and stop people from joining.<br>
-<br>
-<br>
-**Official Download:<br>
-[Dropbox version 1.2](https://www.dropbox.com/s/hysn2p2qli54uvy/SessionSweeper.exe?dl=1)**<br>
-<br>
-**Official Threads:<br>
-[Reddit](https://www.reddit.com/r/gtaonline/comments/69kib3/program_to_empty_your_session_and_prevent_people/) | [Hackforums](https://hackforums.net/showthread.php?tid=5616391) | [MPGH](http://www.mpgh.net/forum/showthread.php?t=1256022)**<br>
-<br>
+
+**Download:
+https://github.com/RobFreiburger/SessionSweeper/releases/tag/1.4**
+
 **Requirements for Session Locking:**<br>
 [1] Windows Firewall needs to be enabled.<br>
 [2] You need to run SessionSweeper as Administrator, so it can edit Firewall rules.<br>
